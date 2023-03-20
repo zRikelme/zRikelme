@@ -23,14 +23,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </div>
   
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zRikelme&bg_color=000000&color=ffffff&line=940000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-
-  ![Snake animation](https://github.com/zRikelme/zRikelme/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
